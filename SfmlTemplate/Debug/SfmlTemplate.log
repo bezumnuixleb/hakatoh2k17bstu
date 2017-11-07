@@ -1,0 +1,6 @@
+﻿  Menu.cpp
+c:\users\debil\documents\visual studio 2017\projects\sfmltemplate\sfmltemplate\menu.cpp(286): warning C4715: 'pause': not all control paths return a value
+c:\users\debil\documents\visual studio 2017\projects\sfmltemplate\sfmltemplate\menu.cpp(216): warning C4715: 'menu': not all control paths return a value
+c:\users\debil\documents\visual studio 2017\projects\sfmltemplate\sfmltemplate\menu.cpp(108): warning C4715: 'LevelMenu': not all control paths return a value
+  SfmlTemplate.vcxproj -> C:\Users\DEBIL\Documents\Visual Studio 2017\Projects\SfmlTemplate\Debug\SfmlTemplate.exe
+  SfmlTemplate.vcxproj -> C:\Users\DEBIL\Documents\Visual Studio 2017\Projects\SfmlTemplate\Debug\SfmlTemplate.pdb (Partial PDB)
